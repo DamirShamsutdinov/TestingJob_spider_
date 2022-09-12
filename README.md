@@ -22,7 +22,7 @@ git clone https://github.com/alvaresShD/api_yamdb.git
 
 Перейти в папку с проектом
 ```
-cd spider
+cd TestingJob_spider_
 ```
 
 Cоздать и активировать виртуальное окружение:<br>
